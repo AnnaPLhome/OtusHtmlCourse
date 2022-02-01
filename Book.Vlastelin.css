@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+body {
+     background-color: aliceblue;
+     color: rgba(51, 31, 2, 0.884);
+    |font-size: 16px;
+    font-weight: 400;
+    font-family: 'Nunito', sans-serif;
+}
+
+.avatar {
+    width: 100;
+    border-radius: 50px;
+    text-align: center;
+    display: block;margin: auto;
+}
+
+p {text-align: justify;}
